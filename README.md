@@ -25,7 +25,7 @@
   <br>
   💬 Bạn có thể trao đổi với mình về AI, Python hoặc các dự án mã nguồn mở.
   <br>
-  📫 Kết nối với mình qua email: <a href="mailto:hung.phamthe.dev@gmail.com">hung.phamthe.dev@gmail.com</a>
+  📫 Kết nối với mình qua email: <a href="phamthehung092@gmail.com">phamthehung092@gmail.com</a>
 </p>
 
 <hr>
