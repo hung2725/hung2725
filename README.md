@@ -38,7 +38,7 @@
   <code><img title="Pandas" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"></code>
   <code><img title="NumPy" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"></code>
   <code><img title="Flask" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"></code>
-  <code><img title="Streamlit" height="35" src="https://static.streamlit.io/favicon.svg"></code>
+  <code><img title="Streamlit" height="35" src="[https://static.streamlit.io/favicon.svg](https://tse3.mm.bing.net/th/id/OIP.AdJrSceXmUWhflN4FFhBxQHaEV?rs=1&pid=ImgDetMain&o=7&rm=3)"></code>
   <code><img title="Git" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
   <code><img title="MySQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
 </p>
