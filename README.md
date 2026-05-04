@@ -12,10 +12,10 @@
 </h5>
 <br>
 <p align="center">
-  Chào bạn, mình là Phạm Thế Hùng, một Kỹ sư AI & Sinh viên CNTT đến từ TP. Hồ Chí Minh, Việt Nam.
+  Chào bạn, mình là Phạm Thế Hùng, Sinh viên CNTT đến từ TP. Hồ Chí Minh, Việt Nam.
   <br>
   <br>
-  🔬 Hiện mình đang nghiên cứu chuyên sâu về Deep Learning, Computer Vision và Graph Neural Networks (GNN).
+  🔬 Hiện mình đang nghiên cứu chuyên sâu về Deep Learning, Computer Vision.
   <br>
   🎓 Đang theo học ngành Công nghệ thông tin tại Đại học Văn Lang (Dự kiến tốt nghiệp 2027).
   <br>
