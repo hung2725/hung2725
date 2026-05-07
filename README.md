@@ -5,11 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Xin+chào!+👋;Tôi+là+Phạm+Thế+Hùng....;Rất+vui+được+gặp+bạn!&center=true&size=30">
   </a>
 </h1>
-
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/hung2725" title="LinkedIn Profile"> LinkedIn</a></code>
-  <code><a href="https://github.com/hung2725" title="GitHub Profile"> GitHub</a></code>
-</h5>
 <br>
 <p align="center">
   Chào bạn, mình là Phạm Thế Hùng, Sinh viên CNTT đến từ TP. Hồ Chí Minh, Việt Nam.
