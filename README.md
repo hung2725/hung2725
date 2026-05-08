@@ -34,7 +34,6 @@
   <code><img title="NumPy" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"></code>
   <code><img title="Flask" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"></code>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
-  <code><img title="Git" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
   <code><img title="MySQL" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
 </p>
 <hr>
