@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Xin+chào!+👋;Tôi+là+Phạm+Thế+Hùng....;Rất+vui+được+gặp+bạn!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Xin+chào!;Tôi+là+Phạm+Thế+Hùng....;Rất+vui+được+gặp+bạn!&center=true&size=30">
   </a>
 </h1>
 <br>
@@ -20,7 +20,7 @@
   <br>
   💬 Bạn có thể trao đổi với mình về AI, Python hoặc các dự án mã nguồn mở.
   <br>
-  📫 Kết nối với mình qua email: <a href="phamthehung092@gmail.com">phamthehung092@gmail.com</a>
+  📫 Kết nối với mình qua email: <a href="mailto:phamthehung092@gmail.com">phamthehung092@gmail.com</a>
 </p>
 
 <hr>
