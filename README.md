@@ -10,17 +10,17 @@
   Chào bạn, mình là Phạm Thế Hùng, Sinh viên CNTT đến từ TP. Hồ Chí Minh, Việt Nam.
   <br>
   <br>
-  🔬 Hiện mình đang nghiên cứu chuyên sâu về Deep Learning, Computer Vision.
+  Hiện mình đang nghiên cứu chuyên sâu về Deep Learning, Computer Vision.
   <br>
-  🎓 Đang theo học ngành Công nghệ thông tin tại Đại học Văn Lang (Dự kiến tốt nghiệp 2027).
+  Đang theo học ngành Công nghệ thông tin tại Đại học Văn Lang (Dự kiến tốt nghiệp 2027).
   <br>
-  💻 Mình đam mê xây dựng các giải pháp AI ứng dụng vào thực tế cuộc sống.
+  Mình đam mê xây dựng các giải pháp AI ứng dụng vào thực tế cuộc sống.
   <br>
-  📚 Hiện tại, mình đang tối ưu hóa các hệ thống gợi ý và mô hình nhận diện hành vi giao thông.
+  Hiện tại, mình đang tối ưu hóa các hệ thống gợi ý và mô hình nhận diện hành vi giao thông.
   <br>
-  💬 Bạn có thể trao đổi với mình về AI, Python hoặc các dự án mã nguồn mở.
+  Bạn có thể trao đổi với mình về AI, Python hoặc các dự án mã nguồn mở.
   <br>
-  📫 Kết nối với mình qua email: <a href="mailto:phamthehung092@gmail.com">phamthehung092@gmail.com</a>
+  Kết nối với mình qua email: <a href="mailto:phamthehung092@gmail.com">phamthehung092@gmail.com</a>
 </p>
 
 <hr>
