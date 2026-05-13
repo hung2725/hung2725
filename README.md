@@ -1,31 +1,30 @@
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hung2725.hung2725" alt="Visitor Badge">
-</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hung2725.hung2725">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Xin+chào!;Tôi+là+Phạm+Thế+Hùng....;Rất+vui+được+gặp+bạn!&center=true&size=30" alt="Typing SVG">
-  </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Xin+chào!;Tôi+là+Phạm+Thế+Hùng....;Rất+vui+được+gặp+bạn!&center=true&size=30">
+  </a>
 </h1>
-
-<div align="center">
-  <p>Chào bạn, mình là <b>Phạm Thế Hùng</b>, Sinh viên CNTT đến từ TP. Hồ Chí Minh, Việt Nam.</p>
-</div>
-
 <br>
-
-<ul>
-  <li>🔬 <b>Nghiên cứu:</b> Deep Learning, Computer Vision</li>
-  <li>🎓 <b>Học vấn:</b> Đại học Văn Lang (CNTT, Dự kiến tốt nghiệp 2027)</li>
-  <li>💻 <b>Đam mê:</b> Xây dựng AI ứng dụng</li>
-  <li>📚 <b>Dự án:</b> Tối ưu hóa hệ thống gợi ý và mô hình nhận diện hành vi giao thông</li>
-  <li>💬 <b>Trao đổi:</b> AI, Python, Mã nguồn mở</li>
-  <li>📫 <b>Liên hệ:</b> <a href="mailto:phamthehung092@gmail.com">phamthehung092@gmail.com</a></li>
-</ul>
+<p align="center">
+  Chào bạn, mình là Phạm Thế Hùng, Sinh viên CNTT đến từ TP. Hồ Chí Minh, Việt Nam.
+  <br>
+  <br>
+  🔬 Hiện mình đang nghiên cứu chuyên sâu về Deep Learning, Computer Vision.
+  <br>
+  🎓 Đang theo học ngành Công nghệ thông tin tại Đại học Văn Lang (Dự kiến tốt nghiệp 2027).
+  <br>
+  💻 Mình đam mê xây dựng các giải pháp AI ứng dụng vào thực tế cuộc sống.
+  <br>
+  📚 Hiện tại, mình đang tối ưu hóa các hệ thống gợi ý và mô hình nhận diện hành vi giao thông.
+  <br>
+  💬 Bạn có thể trao đổi với mình về AI, Python hoặc các dự án mã nguồn mở.
+  <br>
+  📫 Kết nối với mình qua email: <a href="mailto:phamthehung092@gmail.com">phamthehung092@gmail.com</a>
+</p>
 
 <hr>
-
-<h2 align="center">🔥 Công nghệ & Kỹ năng 🔥</h2>
+<h2 align="center">Công nghệ & Kỹ năng</h2>
 
 <div align="center">
   <table>
@@ -61,10 +60,4 @@
     </tr>
   </table>
 </div>
-
 <hr>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hung2725&show_icons=true&theme=default&hide_border=false" width="45%" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hung2725&layout=compact&theme=default&hide_border=false" width="45%" alt="Top Languages">
-</div>
